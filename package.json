@@ -1,0 +1,29 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "my first node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbarivkin/messinAround.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Art",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cbarivkin/messinAround/issues"
+  },
+  "homepage": "https://github.com/cbarivkin/messinAround#readme",
+  "devDependencies": {
+    "jasmine": "^2.3.2",
+    "karma-coverage": "^0.5.3",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.18"
+  }
+}
